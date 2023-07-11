@@ -1,0 +1,4 @@
+/nanoframework/*/.vs/
+/nanoframework/*/bin/
+/nanoframework/*/obj/
+/nanoframework/*/packages/
